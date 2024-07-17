@@ -109,7 +109,7 @@ export const experiences = [
     {
         title: "React.js Developer",
         company_name: "Daffodil Healths",
-        icon: starbucks,
+        icon: ,
         iconBg: "#accbe1",
         date: "June 2022 - August 2022",
         points: [
@@ -122,7 +122,7 @@ export const experiences = [
     {
         title: "Full stack Developer",
         company_name: "Tata Consultancy Services - Robotics",
-        icon: tesla,
+        icon: ,
         iconBg: "#fbc3bc",
         date: "May 2023 - December 2023",
         points: [
@@ -135,7 +135,7 @@ export const experiences = [
     {
         title: "Technical Content Engineer",
         company_name: "Newton school",
-        icon: shopify,
+        icon: ,
         iconBg: "#b7e4c7",
         date: "Feb 2024 - Full Time Conversion to Technical Program manager",
         points: [
