@@ -1,5 +1,5 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
-import {
+import { 
     car,
     contact,
     css,
