@@ -6,7 +6,10 @@ import {
 import { CTA } from "../components";
 import { experiences, skills } from "../constants";
 
+
 import "react-vertical-timeline-component/style.min.css";
+
+
 
 const About = () => {
   return (
@@ -103,6 +106,19 @@ const About = () => {
               </VerticalTimelineElement>
             ))}
           </VerticalTimeline>
+        </div>
+      </div>
+
+      <div className='py-10 flex flex-col'>
+        <h3 className='subhead-text'>My Resume</h3>
+
+        <div className='mt-16 flex flex-wrap gap-12'>
+        
+          <iframe
+            src="./ChetanAmritanshu_Resume.pdf"
+            className="w-full h-[90vh]"
+            title="Resume"
+          />
         </div>
       </div>
 

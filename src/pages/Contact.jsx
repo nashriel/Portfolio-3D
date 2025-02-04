@@ -78,7 +78,7 @@ const Contact = () => {
       <div className='flex-1 min-w-[50%] flex flex-col'>
         <h1 className='head-text'>Get in Touch</h1>
 
-        <form
+        {/* <form
           ref={formRef}
           onSubmit={handleSubmit}
           className='w-full flex flex-col gap-7 mt-14'
@@ -134,7 +134,12 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Submit"}
           </button>
-        </form>
+        </form> */}
+        <p className="text-black-500 font-semibold mt-20 text-[#2196f3]" >Email : <a href="mailto:chetan.amritanshu@gmail.com">chetan.amritanshu@gmail.com</a></p>
+        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">LinkedIn : <a href="https://www.linkedin.com/in/chetan-amritanshu-1b5b2a205">https://www.linkedin.com/in/chetan-amritanshu-1b5b2a205</a></p>
+        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">Github : <a href="https://github.com/trojan1771">https://github.com/trojan1771</a></p>
+        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">Mobile : +91-6264687813 ( available on Call and Whatsapp ) </p>
+        
       </div>
 
       <div className='lg:w-1/2 w-full lg:h-auto md:h-[550px] h-[350px]'>

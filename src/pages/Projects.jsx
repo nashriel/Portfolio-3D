@@ -40,7 +40,10 @@ const Projects = () => {
               <h4 className='text-2xl font-poppins font-semibold'>
                 {project.name}
               </h4>
-              <p className='mt-2 text-slate-500'>{project.description}</p>
+              
+              {project.description.map((item)=>(
+                <p className='mt-2 text-slate-500'>{item}</p>
+              ))}
               <div className='mt-5 flex items-center gap-2 font-poppins'>
                 <Link
                   to={project.link}
