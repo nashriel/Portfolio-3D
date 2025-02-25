@@ -1,9 +1,6 @@
 # MY Amazing 3D Portfolio 
 
-![3D Website](https://ibb.co/bRHYVmLg)
+![3D Website](https://github.com/nashriel/Portfolio-3D/blob/main/Portifolio_page.png.png)
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+
 
