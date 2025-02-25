@@ -18,7 +18,7 @@ const About = () => {
         Hello, I'm{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Chetan
+          Ashriel
         </span>{" "}
         👋
       </h1>
@@ -115,7 +115,7 @@ const About = () => {
         <div className='mt-16 flex flex-wrap gap-12'>
         
           <iframe
-            src="./ChetanAmritanshu_Resume.pdf"
+            src="./AshrielNhembo_Resume.pdf"
             className="w-full h-[90vh]"
             title="Resume"
           />

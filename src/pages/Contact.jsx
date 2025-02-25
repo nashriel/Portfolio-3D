@@ -33,7 +33,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "JavaScript Mastery",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: "ashrielnhembo.dev@gmail.com",
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -135,10 +135,10 @@ const Contact = () => {
             {loading ? "Sending..." : "Submit"}
           </button>
         </form> */}
-        <p className="text-black-500 font-semibold mt-20 text-[#2196f3]" >Email : <a href="mailto:chetan.amritanshu@gmail.com">chetan.amritanshu@gmail.com</a></p>
-        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">LinkedIn : <a href="https://www.linkedin.com/in/chetan-amritanshu-1b5b2a205">https://www.linkedin.com/in/chetan-amritanshu-1b5b2a205</a></p>
-        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">Github : <a href="https://github.com/trojan1771">https://github.com/trojan1771</a></p>
-        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">Mobile : +91-6264687813 ( available on Call and Whatsapp ) </p>
+        <p className="text-black-500 font-semibold mt-20 text-[#2196f3]" >Email : <a href="mailto:ashrielnhembo.dev@gmail.com">ashrielnhembo.dev@gmail.com</a></p>
+        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">LinkedIn : <a href="https://www.linkedin.com/in/ashrielnhembo/">https://www.linkedin.com/in/ashrielnhembo</a></p>
+        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">Github : <a href="https://github.com/nashriel">https://github.com/nashriel</a></p>
+        <p className="text-black-500 font-semibold mt-5 text-[#2196f3]">Mobile : +91-7265029202 ( available on Call and Whatsapp ) </p>
         
       </div>
 
